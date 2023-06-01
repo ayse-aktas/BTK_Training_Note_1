@@ -1,0 +1,15 @@
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\bin\Debug\net6.0\BTKakademi.exe
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\bin\Debug\net6.0\BTKakademi.deps.json
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\bin\Debug\net6.0\BTKakademi.runtimeconfig.json
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\bin\Debug\net6.0\BTKakademi.dll
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\bin\Debug\net6.0\BTKakademi.pdb
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.csproj.AssemblyReference.cache
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.AssemblyInfoInputs.cache
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.AssemblyInfo.cs
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.dll
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\refint\BTKakademi.dll
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.pdb
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\BTKakademi.genruntimeconfig.cache
+C:\Users\Ayse\source\repos\BTKakademi\BTKakademi\obj\Debug\net6.0\ref\BTKakademi.dll
